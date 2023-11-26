@@ -1,2 +1,2 @@
-# hacakathon_2023_front
+# hackathon_2023_front
 Front da applicação code challenge creatore
